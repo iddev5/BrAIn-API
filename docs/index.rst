@@ -133,27 +133,27 @@
 Global
 ~~~~~~
 
--  `All possible conversions <global.html#All_possible_conversions>`__
--  `Chart Generator <global.html#Chart_generator>`__
--  `Color Palette Generator <global.html#Color_Palette_Generator>`__
--  `Joke Generator <global.html#Joke_Generator>`__
+-  `All possible conversions <global.rst#All_possible_conversions>`__
+-  `Chart Generator <global.rst#Chart_generator>`__
+-  `Color Palette Generator <global.rst#Color_Palette_Generator>`__
+-  `Joke Generator <global.rst#Joke_Generator>`__
 -  `Population Growth Predictive
-   Model <global.html#Population_Growth_Predictive_Model>`__
--  `Quote Backdrop Generator <global.html#Quote_Backdrop_Generator>`__
--  `Radix Sort <global.html#Radix_Sort>`__
--  `Riddle Generator <global.html#Riddle_Generator>`__
--  `SIR Epidemic Model <global.html#SIR_Epidemic_Model>`__
--  `Sudoku Generator <global.html#Sudoku_Generator>`__
--  `Task add <global.html#Task_add>`__
--  `Task Add Subtask <global.html#Task_Add_Subtask>`__
--  `Task change <global.html#Task_change>`__
--  `Task Remove <global.html#Task_Remove>`__
--  `Task view <global.html#Task_view>`__
--  `Tech News <global.html#Tech_News>`__
--  `Torrent downloader <global.html#Torrent_downloader>`__
--  `Unit Conversion <global.html#Unit_Conversion>`__
--  `Website Screenshot <global.html#Website_Screenshot>`__
--  `XSS checker <global.html#XSS_checker>`__
+   Model <global.rst#Population_Growth_Predictive_Model>`__
+-  `Quote Backdrop Generator <global.rst#Quote_Backdrop_Generator>`__
+-  `Radix Sort <global.rst#Radix_Sort>`__
+-  `Riddle Generator <global.rst#Riddle_Generator>`__
+-  `SIR Epidemic Model <global.rst#SIR_Epidemic_Model>`__
+-  `Sudoku Generator <global.rst#Sudoku_Generator>`__
+-  `Task add <global.rst#Task_add>`__
+-  `Task Add Subtask <global.rst#Task_Add_Subtask>`__
+-  `Task change <global.rst#Task_change>`__
+-  `Task Remove <global.rst#Task_Remove>`__
+-  `Task view <global.rst#Task_view>`__
+-  `Tech News <global.rst#Tech_News>`__
+-  `Torrent downloader <global.rst#Torrent_downloader>`__
+-  `Unit Conversion <global.rst#Unit_Conversion>`__
+-  `Website Screenshot <global.rst#Website_Screenshot>`__
+-  `XSS checker <global.rst#XSS_checker>`__
 
 | 
 
